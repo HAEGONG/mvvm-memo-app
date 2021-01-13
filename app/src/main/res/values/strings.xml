@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Memo</string>
+
+    <string name="title_body_empty_dialog_message">内容を入力してください</string>
+    <string name="cancel">キャンセル</string>
+</resources>
